@@ -2,11 +2,15 @@
 
 # Overview
 
+This material is designed to support 'Introduction to Open Source License Compliance Management' (LFC193):
+https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/
+
+
 This material is provided such that it can be used as-is. Any updated or alternative (e.g. different language, different graphics, better quality(!) ) content would be appreciated.
 
 # Purpose and Notes
 
-The script (for a video/audio presenter) is given. We would suggest that its used with a basic autocue application. The headings may be used as part of the script.
+The script (for a video/audio presenter) is given. We would suggest that it is used with a basic autocue application. The headings may be used as part of the script.
 
 _**[notes etc about relevant corresponding materials are given in bold italic and are not necessarily intended to be presented]**_
 
