@@ -5,6 +5,8 @@
 This material is designed to support 'Introduction to Open Source License Compliance Management' (LFC193):
 https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/
 
+There is a dedicated webpage to support this video series here:
+https://openchainproject.org/news/2024/07/07/lfc193-bite-sized-videos
 
 This material is provided such that it can be used as-is. Any updated or alternative (e.g. different language, different graphics, better quality(!) ) content would be appreciated.
 
@@ -16,9 +18,7 @@ _**[notes etc about relevant corresponding materials are given in bold italic an
 
 The script should be modified by the presenter such that they can deliver it smoothly and naturally.
 
-Organisations, consultants, etc could add to the basic content to tailor to a specific Company/customer/technology sector.
-
-
+Organizations, consultants, etc could add to the basic content to tailor to a specific Company/customer/technology sector.
 
 # License
 These materials are released under Creative Commons CC-0 https://creativecommons.org/public-domain/cc0/ . However, we request that you do acknowledge the OpenChain UK Work Group and link to openchain.uk or openchainproject.org when using or redistributing the videos. Please do not make any changes which may misrepresent their content or cause it to be misleading. 
